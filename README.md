@@ -9,3 +9,5 @@ docker-compose exec client sh
 ./load_data.sh (inside container)
 ```
 You will find queries in /home/queries of client container
+
+Database description is inside description.pdf
